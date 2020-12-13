@@ -3,7 +3,7 @@ Encript multiple PDF Files with Python
 
 Project Name: PDF ENCRIPTOR
 
-# How To Setup
+# Setup
 1.  Clone This Project git clone https://github.com/Muri68/PDF_ENCRIPTOR.git
 
 2.  Enter Project Directory:- cd PDF_ENCRIPTOR
